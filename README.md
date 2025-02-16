@@ -1,4 +1,4 @@
 # vinaykumar-demo
 This is my first Repository,
 <br>
-Author - Vinay Kumar K.V
+Author - Vinay Kalburgij
